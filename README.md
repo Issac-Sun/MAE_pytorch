@@ -4,6 +4,8 @@
 
 This repository provides a simplified implementation of the Masked Autoencoder (MAE) architecture on the CIFAR10 dataset. The project is inspired by the work in [IcarusWizard/MAE](https://github.com/IcarusWizard/MAE) and includes extensive Chinese comments to facilitate understanding.
 
+![MAE Architecture](https://github.com/Issac-Sun/MAE_pytorch/blob/master/MAE_architecture.png)
+
 这个仓库提供了在 CIFAR10 数据集上 Masked Autoencoder (MAE) 架构的简化实现。该项目受到 IcarusWizard/MAE 工作的启发，并包含了大量的中文注释以便于理解。
 
 ## Overview
